@@ -1,0 +1,10 @@
+	git clone  “ ”
+	git add  .
+	git commit  -m   “ ”
+	git config  --global user.email  “ ”
+	git config  --globa  user.name “ ”
+	git push
+	git  checkout  -b  <branch-name>       create new branch and switch to it
+	git  branch  <branch-name>                create new branch without switching
+	git checkout  <branch-name >            switch the branch
+
